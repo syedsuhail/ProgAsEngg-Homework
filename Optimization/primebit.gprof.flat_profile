@@ -1,0 +1,8 @@
+Flat profile:
+
+Each sample counts as 0.01 seconds.
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  ms/call  ms/call  name    
+ 70.07      2.35     2.35 99950000     0.00     0.00  set
+ 22.56      3.10     0.76        1   755.75   755.75  display
+  7.47      3.35     0.25                             main
